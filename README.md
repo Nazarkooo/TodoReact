@@ -24,8 +24,8 @@ Experience the power of organization and task management with our Kanban Board b
 2. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd your-project-directory
+   git clone [<repository-url>](https://github.com/Nazarkooo/TodoReact.git)
+   cd to-do-react
    ```
 
 3. **Install dependencies:**
