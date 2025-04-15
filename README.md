@@ -2,6 +2,8 @@
 
 Experience the power of organization and task management with our Kanban Board built using React, TypeScript, Tailwind CSS, and DnD-kit. Manage your tasks and projects seamlessly with an intuitive drag-and-drop interface.
 
+<img src="./src/assets/example.gif" />
+
 ## ⚙️ Technology Stack
 
 - **React with Vite:** Fast development and efficient bundling.
